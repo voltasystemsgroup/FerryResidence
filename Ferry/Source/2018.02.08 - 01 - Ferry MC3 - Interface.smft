@@ -1,0 +1,15 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="Core3 UI XPanel" DeviceId="10" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="TSW-750" DeviceId="11" Name="TSW-750 [TP01] [FOYER]"/>
+      <Device Model="TSW-750" DeviceId="12" Name="TSW-750 [TP02] [MASTER BATH]"/>
+      <Device Model="TSW-750" DeviceId="13" Name="TSW-750 [TP03] [DINING]"/>
+      <Device Model="TSW-750" DeviceId="14" Name="TSW-750 [TP04] [GYM]"/>
+      <Device Model="TSW-750" DeviceId="15" Name="TSW-750 [TP05] [MASTER BED]"/>
+      <Device Model="TSW-750" DeviceId="16" Name="TSW-750 [TP06] [KITCHEN]"/>
+      <Device Model="TSW-750" DeviceId="17" Name="TSW-750 [TP07] [LIVING]"/>
+      <Device Model="TSW-750" DeviceId="18" Name="TSW-750 [TP08] [LIBRARY]"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>

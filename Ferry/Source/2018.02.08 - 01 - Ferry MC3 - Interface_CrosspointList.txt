@@ -1,0 +1,52 @@
+Crosspoint listing for C:\Users\Mike\Desktop\Ferry\Source\2018.02.08 - 01 - Ferry MC3 - Interface.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-1 in macro S-2.1.1.1.1 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1001
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.2 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1002
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.3 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1003
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.4 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1004
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.5 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1005
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.6 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1006
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.7 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1007
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.8 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1008
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.9 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devic          1009
+e xPt v1.07.umc)                                                                                    
+S-1 in macro S-2.1.1.1.10 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devi          1010
+ce xPt v1.07.umc)                                                                                   
+S-1 in macro S-2.1.1.1.11 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devi          1011
+ce xPt v1.07.umc)                                                                                   
+S-1 in macro S-2.1.1.1.12 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control Devi          1012
+ce xPt v1.07.umc)                                                                                   
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-1.3.2 in macro S-3.2.1.1.1 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1000
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.2 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1001
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.3 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1002
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.4 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1003
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.5 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1004
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.6 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1005
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.7 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1006
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.8 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1007
+nterface xPt v1.07.umc)                                                                             
+S-1.3.2 in macro S-3.2.1.1.9 (Module File C:\Users\Mike\Desktop\Ferry\Source\AVZ Control I          1008
+nterface xPt v1.07.umc)                                                                             
+
